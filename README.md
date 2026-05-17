@@ -10,29 +10,29 @@
 
 ---
 
-<h3 align="left"><span style="color: #40C9FF;">🚀 About Me</span></h3>
+<h3 align="left"><span style="color: #40C9FF;">About Me</span></h3>
 
 I am a dedicated Computer Science & Engineering student and Software Developer. I specialize in crafting high-performance cross-platform mobile applications and dynamic, scalable web solutions. Beyond development, I have a strong keen interest in network protocols, data management, and processing complex datasets.
 
-- 📱 **Mobile Dev:** Crafting beautiful and smooth UIs with **Flutter & Dart**.
-- 🌐 **Web & Backend:** Developing dynamic web applications using **PHP, Python, and JavaScript (HTML5/CSS3)**.
-- 📊 **Data & Cloud:** Managing application backends with **Firebase** and working with **CSV datasets**.
-- 🛠️ **Focus:** Writing clean, maintainable code and building real-world software architectures.
+- **Mobile Development:** Crafting beautiful and smooth UIs with **Flutter & Dart**.
+- **Web & Backend:** Developing dynamic web applications using **PHP, Python, and JavaScript (HTML5/CSS3)**.
+- **Data & Cloud:** Managing application backends with **Firebase** and working with **CSV datasets**.
+- **Focus Architecture:** Writing clean, maintainable code and building real-world software solutions.
 
 ---
 
-<h3 align="left"><span style="color: #FF79C6;">🛠️ Tech Stack & Skills</span></h3>
+<h3 align="left"><span style="color: #FF79C6;">Tech Stack & Skills</span></h3>
 
 <table border="0">
  <tr>
-  <td>📱 <b>Mobile</b></td>
+  <td><b>Mobile</b></td>
   <td>
    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   </td>
  </tr>
  <tr>
-  <td>🌐 <b>Web & Backend</b></td>
+  <td><b>Web & Backend</b></td>
   <td>
    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -42,7 +42,7 @@ I am a dedicated Computer Science & Engineering student and Software Developer. 
   </td>
  </tr>
  <tr>
-  <td>💾 <b>Database & Tools</b></td>
+  <td><b>Database & Tools</b></td>
   <td>
    <img src="https://img.shields.io/badge/Firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
    <img src="https://img.shields.io/badge/Data-.csv-green?style=for-the-badge" alt="CSV Dataset"/>
@@ -53,7 +53,7 @@ I am a dedicated Computer Science & Engineering student and Software Developer. 
 
 ---
 
-<h3 align="left"><span style="color: #BD93F9;">📊 GitHub Performance Analytics</span></h3>
+<h3 align="left"><span style="color: #BD93F9;">GitHub Performance Analytics</span></h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mushfiqmushi1&theme=tokyonight" alt="Mushfiq's Activity Graph" width="100%" />
@@ -65,10 +65,13 @@ I am a dedicated Computer Science & Engineering student and Software Developer. 
 
 ---
 
-<h3 align="left"><span style="color: #FFB86C;">🤝 Connect with me</span></h3>
+<h3 align="left"><span style="color: #FFB86C;">Connect with me</span></h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md-mushfiqur-rahman-967392265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/mtsoftai" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
   </a>
 </p>
