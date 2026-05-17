@@ -56,8 +56,7 @@ I am a dedicated Computer Science & Engineering student and Software Developer. 
 <h3 align="left"><span style="color: #BD93F9;">📊 GitHub Performance Analytics</span></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mushfiqmushi1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Mushfiq's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqmushi1&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mushfiqmushi1&theme=tokyonight" alt="Mushfiq's Activity Graph" width="100%" />
 </p>
 
 <p align="center">
