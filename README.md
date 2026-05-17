@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/mushfiqmushi1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=40C9FF&vCenter=true&width=500&lines=Flutter+%26+Dart+Developer;Full-Stack+Web+Developer;Data+Analysis+Enthusiast;CSE+Student+at+DIU" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=40C9FF&center=true&vCenter=true&width=500&lines=Flutter+%26+Dart+Developer;Full-Stack+Web+Developer;Data+Analysis+Enthusiast;CSE+Student+at+DIU" alt="Typing SVG" />
   </a>
 </p>
 
@@ -56,8 +56,8 @@ I am a dedicated Computer Science & Engineering student and Software Developer. 
 <h3 align="left"><span style="color: #BD93F9;">📊 GitHub Performance Analytics</span></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mushfiqmushi1&show_icons=true&theme=tokyonight&cache_bust=1" alt="Mushfiq's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqmushi1&layout=compact&theme=tokyonight&cache_bust=1" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mushfiqmushi1&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Mushfiq's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqmushi1&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
